@@ -1,0 +1,4 @@
+## Anotações sobre o Git e Github
+  cd = navegar entre outras pastas
+  Dir = Diretório
+  Ctrl + L = Limpa git
